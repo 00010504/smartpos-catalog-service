@@ -1,0 +1,4 @@
+[submodule "invan_proto"]
+	path = invan_proto
+	url = git@gitlab.7i.uz:invan2/invan_proto.git
+	branch = main

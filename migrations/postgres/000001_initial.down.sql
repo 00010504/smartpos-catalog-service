@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS "company";
+
+DROP TABLE IF EXISTS "shop";
+
+DROP TABLE IF EXISTS "measurement_unit";
+
+DROP TABLE IF EXISTS "user";
+
+DROP TABLE IF EXISTS "brand";
+
+DROP TABLE IF EXISTS "product";

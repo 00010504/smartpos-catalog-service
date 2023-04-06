@@ -1,0 +1,8 @@
+.vscode
+.env
+.idea
+.DS_Store
+
+db.sql
+
+services/listeners/scales_template_test.go
